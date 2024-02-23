@@ -1,4 +1,4 @@
-# shakeDice
+# Shake Dice
 
 **Dice game with JS.**
 
