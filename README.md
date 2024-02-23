@@ -4,7 +4,7 @@
 
 ![](https://github.com/goksukur/shakeDice/blob/d4831837bc226b4f7550edcaa1f2d92349dffe31/Shake%20Dice.png)
 
-##JS
+## JS
 
             var todice
               todice = [
